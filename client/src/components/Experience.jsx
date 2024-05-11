@@ -9,9 +9,9 @@ const Experience = () => {
             <div className="flex flex-col mt-4">
                 <div className="w-full p-5 m-2 flex flex-col items-start bg-gray-50 rounded-3xl cursor-pointer hover:bg-gray-100 text-left">
                     <div className="w-full flex justify-between">
-                        <span className="text-xl">Software Tester / IT Intern</span>
+                        <span className="text-xl">Flutter Developer </span>
                         <span className="text-lg opacity-50">
-                            06/2023 ~ 08/2023
+                            06/2023 ~ 09/2023
                         </span>
                     </div>
                     <span className="text-sm font-normal text-gray-500">Wayne Inc. (startup)</span>
@@ -27,9 +27,9 @@ const Experience = () => {
                 </div>
                 <div className="w-full p-5 m-2 mt-5 flex flex-col items-start bg-gray-50 rounded-3xl cursor-pointer hover:bg-gray-100 text-left">
                     <div className="w-full flex justify-between">
-                        <span className="text-xl">Front-end Software Engineer</span>
+                        <span className="text-xl">Kotlin App Developer</span>
                         <span className="text-lg opacity-50">
-                            06/2022 ~ 09/2022
+                            06/2022 ~ Present
                         </span>
                     </div>
                     <span className="text-sm font-normal text-gray-500">4STEC (startup)</span>

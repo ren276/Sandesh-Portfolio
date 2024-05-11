@@ -15,7 +15,7 @@ const AboutPage = () => {
         window.alert("This feature is disabled.")
     };
 
-    const senderEmail = 'samuelhan.s713@gmail.com';
+    const senderEmail = 'sandeshverma0311@gmail.com';
 
     const handleComposeEmail = () => {
         const mailtoLink = `mailto:${senderEmail}`;
@@ -27,7 +27,7 @@ const AboutPage = () => {
             <h1 className="text-center mt-10 text-5xl">Welcome to my page!</h1>
             <div className="flex flex-col items-center">
                 <div className="mt-5 flex flex-col items-center">
-                    <img src="assets/profile_pic.png" className="rounded-lg max-w-sm mt-5" />
+                    <img src="assets/me.png" className="rounded-lg max-w-sm mt-5" />
                     <div class="flex items-center flex-col">
                         <div class="flex flex-col items-center gap-y-4 text-left w-8/12">
                             <h1 class="text-4xl font-semibold mt-10">About me</h1>
@@ -53,7 +53,7 @@ const AboutPage = () => {
                                 <div className="relative z-10 text-black flex flex-col items-start rounded-xl w-48 bg-white r shadow-lg shadow-sky-500 h-10">
                                     <div className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-pink-600 rounded-xl blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200">
                                     </div>
-                                    <a href="https://www.linkedin.com/in/samuel-seukhyun-han/" target="_blank" class="relative gradient-border px-4 py-2 rounded-xl flex items-center justify-between bg-black hover:bg-white hover:text-black opacity-95 hover:opacity-100 text-white w-full text-base font-normal transform hover:scale-105 duration-300">
+                                    <a href="https://www.linkedin.com/in/sandeshverma/" target="_blank" class="relative gradient-border px-4 py-2 rounded-xl flex items-center justify-between bg-black hover:bg-white hover:text-black opacity-95 hover:opacity-100 text-white w-full text-base font-normal transform hover:scale-105 duration-300">
                                         <FaLinkedin />
                                         Connect with me
                                     </a>

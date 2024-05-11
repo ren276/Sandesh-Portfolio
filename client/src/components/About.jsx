@@ -23,9 +23,9 @@ const About = () => {
                         <div class="flex flex-col gap-y-4 text-left w-3/6">
                             <h1 class="text-4xl font-semibold">About me</h1>
                             <p class="text-base font-normal text-gray-500 mt-4">
-                                My name is Samuel Han, and I am a senior majoring in computer science at Stony Brook University.
-                                I was born in the US from Korean parents, and lived up Japan for most of my life.
-                                So yes, I am a native speaker in English, Korean, and Japanese.
+                                My name is Sandesh Verma, and I am a graduating in computer science and engineering at Delhi Technical Campus.
+                                I was born in India and living in New Delhi for quire most of the time.
+                                So yes, I am a native speaker in English, Hindi and know a little conversing French.
                                 I want to provide value to society through my knowledge and experience in technology.
                                 I would also love to work on projects with you, so please reach out to me if you need someone!
                             </p>
@@ -38,7 +38,7 @@ const About = () => {
                                 </button>
                             </div>
                         </div>
-                        <img src="assets/profile_pic.png" className="rounded-lg max-w-sm ml-10 left-48" />
+                        <img src="assets/me.png" className="rounded-lg max-w-sm ml-10 left-48" />
                     </div>
                 </div>
             </div>

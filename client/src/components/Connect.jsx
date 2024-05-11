@@ -60,7 +60,7 @@ const Connect = () => {
                         </div>
                         <div className="relative z-10 text-black items-start rounded-xl w-38 bg-white r shadow-lg shadow-sky-500">
                             <div className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-pink-600 rounded-xl blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
-                            <a href='https://www.linkedin.com/in/samuel-seukhyun-han/' target='_blank' class="relative gradient-border px-4 py-2 rounded-xl flex items-center bg-black hover:bg-white hover:text-black opacity-95 hover:opacity-100 text-white w-full text-base font-normal transform hover:scale-105 duration-300">
+                            <a href='https://www.linkedin.com/in/sandeshverma/' target='_blank' class="relative gradient-border px-4 py-2 rounded-xl flex items-center bg-black hover:bg-white hover:text-black opacity-95 hover:opacity-100 text-white w-full text-base font-normal transform hover:scale-105 duration-300">
                                 Connect on LinkedIn
                             </a>
                         </div>

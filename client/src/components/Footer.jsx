@@ -26,7 +26,7 @@ const Footer = () => {
                 </a>
             </ul>
             <div className="text-sm font-normal flex mt-6">
-                <span>©2024 Copyright: Samuel Han</span>
+                <span>©2024 Copyright: Sandesh Verma</span>
             </div>
         </div>
     )
